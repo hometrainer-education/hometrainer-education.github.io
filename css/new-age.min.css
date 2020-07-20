@@ -281,7 +281,7 @@ section.features .feature-item i {
     font-size: 80px;
     display: block;
     margin-bottom: 15px;
-    background: linear-gradient(to left, #7b4397, #dc2430);
+    background: linear-gradient(to left, gold, #B3B915);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent
@@ -327,12 +327,11 @@ section.contact {
     text-align: center;
 }
 
-section.contact h2 {
-    margin-top: 0;
-    margin-bottom: 25px
+section.contact h4 {
+    margin-top: -30px;
 }
 
-section.contact h2 i {
+section.contact h4 i {
     color: #dd4b39
 }
 
