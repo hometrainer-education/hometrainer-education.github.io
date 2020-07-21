@@ -273,8 +273,9 @@ section.features .feature-item {
     text-align: center
 }
 
-section.features .feature-item h3 {
-    font-size: 30px
+section.features .feature-item h3 b {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 section.features .feature-item i {
