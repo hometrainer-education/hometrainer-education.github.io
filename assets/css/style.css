@@ -452,7 +452,7 @@ section {
   font-weight: 400;
   margin-bottom: 20px;
   padding-bottom: 0;
-  color: #5777ba;
+  color: #94CD17;
   font-family: "Poppins", sans-serif;
 }
 
@@ -1212,7 +1212,7 @@ section {
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #5777ba;
+  background: #94cd17;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1225,7 +1225,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #27282c;
+  background: #94cd17;
   color: #fff;
   text-decoration: none;
 }
